@@ -1,7 +1,7 @@
-package problem_1030A;
+package Codeforces_Problems;
 import java.util.Scanner;
 
-public class main {
+public class problem1030 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

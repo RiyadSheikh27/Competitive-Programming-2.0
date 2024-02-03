@@ -1,8 +1,8 @@
-package problem_486A;
+package Codeforces_Problems;
 
 import java.util.Scanner;
 
-public class main {
+public class problem486A {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
-package problem_344A;
+package Codeforces_Problems;
 import java.util.Scanner;
 
-public class main {
+public class problem344A {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine()); //number of magnets 

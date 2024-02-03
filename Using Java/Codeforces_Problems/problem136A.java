@@ -1,9 +1,9 @@
-package problem_136A;
+package Codeforces_Problems;
 
 import java.util.Scanner;
 import java.util.Vector;
 
-public class main {
+public class problem136A {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
