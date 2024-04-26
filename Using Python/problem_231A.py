@@ -6,4 +6,4 @@ for i in range(0, int(input())):
     if j.count('1') >= 2:
         m+=1
         l.append(m)
-print(sum(l))
+print(sum(l))/////

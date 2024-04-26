@@ -11,3 +11,5 @@ for _ in range(t):
     if mod > 0:
         sum_val += 1
     print(sum_val)
+
+//This is Riyad here.
