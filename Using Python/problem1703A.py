@@ -11,3 +11,5 @@ class A:
 
 obj = A()
 obj.yesno()
+
+//
